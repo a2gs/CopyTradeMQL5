@@ -1,6 +1,6 @@
 # CopyTradeMQL5
 
-![](https://i.imgur.com/Tm8hbpk.png)
+![](https://i.imgur.com/Tm8hbpk.png)<br>
 ![](https://i.imgur.com/sjNdVYJ.png)
 
 MetaTrader MQL5 Copy-Trade Expert Advisor with ZeroMQ<br>
