@@ -1,0 +1,26 @@
+# Server name
+BOTNAME=BOT_NAME_SRV
+
+# Magic number
+MAGIC_NUMBER=12345
+
+# Ping time (sec. 0 = off)
+PING_TIME_SEC=10
+
+# Debug log
+DEBUG=true
+
+# Play sound on errors
+ERRO_SOUND=true
+
+# Play sound on sucess
+OK_SOUND=false
+
+# Enviar Warning Push Notification
+SND_WAR_NOTIF=true
+
+# Enviar Error Push Notification
+SND_ERR_NOTIF=true
+
+# Server address to bind
+ZMQADDRESS=tcp://*:5563

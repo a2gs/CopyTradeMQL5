@@ -1,0 +1,45 @@
+# Client name
+BOTNAME=BOT_NAME_CLI1
+
+# Magic number
+MAGIC_NUMBER=23456
+
+# Debug log
+DEBUG=true
+
+# Play sound on errors
+ERRO_SOUND=true
+
+# Play sound on sucess
+OK_SOUND=false
+
+# Enviar Warning Push Notification
+SND_WAR_NOTIF=false
+
+# Enviar Error Push Notification
+SND_ERR_NOTIF=true
+
+# Alerta de ordem/posicao nao localizada
+ALERT_TRADE=false
+
+# Slippage/Deviation
+DEVIATION=200
+
+# Values calculation type
+# 1 - 1:1 Copy the server values
+# 2 - Uses server ratio
+# 3 - Uses client ratio
+# 4 - Fixed volume
+RATIO_CALC=2
+
+# Client trade ratio
+CLIENT_RATIO=0.6
+
+# Fechar todas PENDENTES se nao localizada
+CLOSEALLPOSIT=false
+
+# Digits used for Volume
+PLAT_VOL_DIGITS=2
+
+# Server address
+ZMQADDRESS=tcp://localhost:5563
